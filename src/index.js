@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+// 루트 기능을 사용하기 위해 전체 app을 BrowserRouter로 감싸줘야함
 import { BrowserRouter } from "react-router-dom";
 import "./index.css";
 import App from "./App";
